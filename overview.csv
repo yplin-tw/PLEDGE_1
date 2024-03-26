@@ -43,4 +43,4 @@ Greece,METRON FORUM 2.0 Wave2,2022-11-16,2022-11-22,Quantitative Survey Data,Non
 Greece,An Insight into the Minds of Voters ,2023-03-17,2023-03-27,Quantitative Survey Data,Non-probability quota,4182,N,"Trust (Political), Democracy (performance), Radicalism, Immigration, Authoritarian preference , Feeling happy, Trust (social)",N,info@eteron.org
 Greece,European Social Survey 2nd Round Greece -ESS2 GR,2005-01-10,2005-03-20,Quantitative Survey Data,Representative sample,2406,N,"Trust, Values (social), Social exclusion, Health, Work, Economy (well-being and indicators)",Y,DOI: 10.17903/FK2/VHJD91
 Greece,check4facts-Attitudes and Perceptions of Public Information in Greece,2021-05-26,2021-11-26,Quantitative Survey Data,Non-probability quota,1370,N,"Misinformation, Health, Immigration, Climate, Criminality",Y,DOI:  10.17903/FK2/DDAYF5
-EU,EP 2019 Twitter dataset,2019-04-23,2019-05-30,Media transcripts,Periodical,6506,N,"Voting, Values (Political)",,
+EU,EP 2019 Twitter dataset,2019-04-23,2019-05-30,Media transcripts,Periodical,6506,N,"Voting, Values (Political)",Y,https://doi.org/10.7802/1.1995
